@@ -10,6 +10,8 @@ const backend = defineBackend({
   data,
 });
 
+/*
 backend.data.resources.cfnResources.cfnApiKey?.overrideLogicalId(
   "amplifyDataGraphQLAPIDefaultApiKey1C8ED3741111"
 );
+*/
